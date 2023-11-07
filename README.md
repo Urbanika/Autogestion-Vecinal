@@ -57,6 +57,7 @@ We've gone through several internal iterations:
 2024, IRL immersive experience teaching neighborhood coordination, commoning, and web3 using a school bus as the setting.
 
 Example of one of our 1-min long videos made in collaboration with David Bollier
+
 ![Example](https://giveth.mypinata.cloud/ipfs/QmPhMq4ActcoJxuA9nNTZBfau2czoiYXGsSQkiFBGe8HKS "Example scene of David and Kin exploring the commonsverse")
 
 So, now we are preparing the courses for neighborhood coordination, we have already spoken with three neighborhoods of several thousand houses and we have validated the need. They are willing to pay for the experience.
